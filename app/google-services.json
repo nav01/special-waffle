@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944293854789",
+    "firebase_url": "https://inventory-scanner-a0921.firebaseio.com",
+    "project_id": "inventory-scanner-a0921",
+    "storage_bucket": "inventory-scanner-a0921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944293854789:android:6a7c6408767f1338a66d2c",
+        "android_client_info": {
+          "package_name": "com.example.kusdinventoryscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944293854789-avjuqku99jscfdhkp9bpi7bestqpq7g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kusdinventoryscanner",
+            "certificate_hash": "7290c4b20595e7bcddc2abce85a6a8b67122d372"
+          }
+        },
+        {
+          "client_id": "944293854789-5s3bjb9qvs8jnje4ovj4u1jjlnf17pna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNiKToYVAOAjDnvKvUGV9lww8wNUBxbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944293854789-5s3bjb9qvs8jnje4ovj4u1jjlnf17pna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

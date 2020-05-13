@@ -16,12 +16,12 @@ import com.google.android.gms.common.SignInButton;
 import com.google.android.gms.common.api.ApiException;
 import com.google.android.gms.tasks.Task;
 
-public class SignIn extends AppCompatActivity {
+public class SignInActivity extends AppCompatActivity {
 
     public static final String LOGIN_EXTRA = "login_extra";
 
     private static final int GOOGLE_SIGN_IN_REQUEST = 0;
-    private static final String TAG = SignIn.class.getSimpleName();
+    private static final String TAG = SignInActivity.class.getSimpleName();
     private GoogleSignInClient mGoogleSignInClient;
 
     @Override
